@@ -128,6 +128,12 @@
       "languageVersion": "2.15"
     },
     {
+      "name": "dots_indicator",
+      "rootUri": "file:///Users/innocent/.pub-cache/hosted/pub.dev/dots_indicator-3.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "equatable",
       "rootUri": "file:///Users/innocent/.pub-cache/hosted/pub.dev/equatable-2.0.5",
       "packageUri": "lib/",
@@ -174,6 +180,12 @@
       "rootUri": "file:///Users/innocent/.pub-cache/hosted/pub.dev/flutter_lints-2.0.3",
       "packageUri": "lib/",
       "languageVersion": "2.19"
+    },
+    {
+      "name": "flutter_svg",
+      "rootUri": "file:///Users/innocent/.pub-cache/hosted/pub.dev/flutter_svg-1.1.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
     },
     {
       "name": "flutter_test",
@@ -266,6 +278,18 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "path_drawing",
+      "rootUri": "file:///Users/innocent/.pub-cache/hosted/pub.dev/path_drawing-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path_parsing",
+      "rootUri": "file:///Users/innocent/.pub-cache/hosted/pub.dev/path_parsing-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "path_provider_linux",
       "rootUri": "file:///Users/innocent/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1",
       "packageUri": "lib/",
@@ -312,6 +336,18 @@
       "rootUri": "file:///Users/innocent/.pub-cache/hosted/pub.dev/pub_semver-2.1.4",
       "packageUri": "lib/",
       "languageVersion": "2.17"
+    },
+    {
+      "name": "responsive_sizer",
+      "rootUri": "file:///Users/innocent/.pub-cache/hosted/pub.dev/responsive_sizer-3.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "routemaster",
+      "rootUri": "file:///Users/innocent/.pub-cache/hosted/pub.dev/routemaster-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "shared_preferences",
@@ -452,7 +488,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-09-10T06:05:36.094150Z",
+  "generated": "2023-09-27T09:27:01.615196Z",
   "generator": "pub",
   "generatorVersion": "3.0.5"
 }

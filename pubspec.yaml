@@ -1,11 +1,11 @@
 name: service_finder
 description: Service Finder
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
 
 version: 1.0.0+1
 
 environment:
-  sdk: '>=3.0.5 <4.0.0'
+  sdk: ">=3.0.5 <4.0.0"
 
 dependencies:
   flutter:
@@ -18,7 +18,10 @@ dependencies:
   dartz: ^0.10.1
   connectivity_plus: ^4.0.2
   shared_preferences: ^2.2.1
-
+  routemaster: ^1.0.1
+  dots_indicator: ^3.0.0
+  responsive_sizer: ^3.2.0
+  flutter_svg: ^1.1.6
 
 dev_dependencies:
   flutter_test:
@@ -26,6 +29,8 @@ dev_dependencies:
   mockito: ^5.4.2
   flutter_lints: ^2.0.0
 
-
 flutter:
   uses-material-design: true
+
+  assets:
+    - assets/svgs/splash_screen/
